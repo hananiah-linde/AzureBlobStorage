@@ -1,0 +1,31 @@
+employee_id,first_name,last_name,department,position,hire_date,years_of_service,base_salary,bonus,total_compensation
+1001,John,Smith,Engineering,Senior Software Engineer,2018-05-15,7,115000,12500,127500
+1002,Sarah,Johnson,Marketing,Marketing Manager,2019-03-10,6,92000,8000,100000
+1003,Michael,Williams,Finance,Financial Analyst,2020-11-22,4,78500,5500,84000
+1004,Emily,Brown,Human Resources,HR Specialist,2017-08-30,7,82000,6000,88000
+1005,David,Jones,Sales,Sales Representative,2021-04-18,4,67000,12000,79000
+1006,Jennifer,Garcia,Engineering,Software Developer,2022-01-05,3,85000,7500,92500
+1007,Robert,Miller,Operations,Operations Director,2015-12-10,9,125000,18000,143000
+1008,Lisa,Davis,Marketing,Content Specialist,2020-07-22,4,72000,4500,76500
+1009,James,Rodriguez,IT,IT Support Technician,2019-09-15,5,65000,3200,68200
+1010,Michelle,Martinez,Finance,Senior Accountant,2016-04-30,9,95000,9500,104500
+1011,Thomas,Hernandez,Engineering,QA Engineer,2021-06-12,3,79000,5000,84000
+1012,Patricia,Lopez,Sales,Sales Manager,2017-02-28,8,105000,15000,120000
+1013,Christopher,Wilson,IT,Network Administrator,2018-10-15,6,88000,6800,94800
+1014,Elizabeth,Anderson,Human Resources,HR Director,2014-08-05,10,115000,14000,129000
+1015,Daniel,Taylor,Engineering,Lead Developer,2016-11-18,8,118000,13500,131500
+1016,Jessica,Thomas,Marketing,Digital Marketing Specialist,2022-03-22,3,69500,4200,73700
+1017,Matthew,Jackson,Finance,Budget Analyst,2019-05-25,6,76000,5200,81200
+1018,Nancy,White,Operations,Operations Coordinator,2020-09-08,4,62000,3000,65000
+1019,Kevin,Harris,Sales,Account Executive,2018-07-14,6,95000,18500,113500
+1020,Amanda,Martin,Engineering,UI/UX Developer,2021-01-30,4,82000,6500,88500
+1021,Richard,Thompson,IT,Systems Administrator,2015-05-19,10,92000,7800,99800
+1022,Stephanie,Garcia,Human Resources,Recruiting Specialist,2019-11-04,5,68000,4000,72000
+1023,Joseph,Martinez,Finance,Finance Manager,2017-03-15,8,108000,12000,120000
+1024,Rebecca,Robinson,Marketing,Brand Manager,2018-08-22,6,88000,7500,95500
+1025,Charles,Clark,Engineering,DevOps Engineer,2020-02-10,5,98000,8500,106500
+1026,Laura,Rodriguez,Sales,Sales Associate,2022-05-08,3,59000,9000,68000
+1027,Steven,Lewis,Operations,Project Manager,2016-09-30,8,95000,9000,104000
+1028,Karen,Walker,IT,Data Analyst,2019-07-12,5,79000,5500,84500
+1029,Edward,Hall,Finance,Controller,2015-10-24,9,115000,13000,128000
+1030,Melissa,Allen,Human Resources,Benefits Administrator,2020-04-15,5,72000,4800,76800
